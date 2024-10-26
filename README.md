@@ -1,5 +1,3 @@
-# TAREA 4: HISTORIAS CLINICAS DE INSUFICIENCIA CARDÍACA
-
 <p align="left">
    <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=plastic">
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
@@ -7,7 +5,7 @@
 
 <img src="./assets/banner-ML.png"/>
 
-# Tarea 4 - Análisis de Datos y Modelado en Machine Learning
+## Tarea 4 - Análisis de Datos y Modelado en Machine Learning
 
 Este repositorio contiene la Tarea Final de la asignatura de Machine Learning, en la cual se realiza un análisis completo utilizando un dataset de enfermedades cardíacas (Heart Disease) obtenido de [UCI Repository/Kaggle](https://archive.ics.uci.edu/ml/index.php). El objetivo de la tarea es aplicar técnicas de análisis exploratorio y modelado para extraer información significativa y hacer predicciones basadas en modelos supervisados y no supervisados.
 
