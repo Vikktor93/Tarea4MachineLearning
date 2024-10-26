@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jupyter-%23e58f1a.svg?style=plastic&logo=Jupyter&logoColor=white"/>
 
-<img src="./assets/banner-visualizacion-T2.png"/>
+<img src="./assets/banner-ML.png"/>
 
 # Tarea 4 - Análisis de Datos y Modelado en Machine Learning
 
